@@ -10,7 +10,7 @@ My first experience with AWS Lambda was [using Ephemeral to clean up my Twitter 
 
 So here it is, a C# console you can run from AWS Lambda. Schedule it to run as often as you like using Lambda's [cron scheduling](https://docs.aws.amazon.com/lambda/latest/dg/tutorial-scheduled-events-schedule-expressions.html) capabilities.
 
-If you'd like to read more about it, I wrote a blog post about it too.
+If you'd like to read more about it, [I wrote a blog post about it too](https://grantwinney.com/using-aws-lambda-to-tweet-random-posts-from-an-rss-feed/).
 
 ### Getting the code
 
