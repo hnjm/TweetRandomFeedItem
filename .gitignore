@@ -1,0 +1,10 @@
+.DS_Store
+.vs
+
+# User-specific files
+*.suo
+*.user
+
+# Dependencies
+bin
+obj
