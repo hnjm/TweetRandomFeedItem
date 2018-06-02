@@ -1,6 +1,6 @@
 # Tweet a Random RSS Feed Item
 
-***Using AWS Lambda and Tweetinvi***
+***Using [AWS Lambda](https://aws.amazon.com/lambda/) and [Tweetinvi](https://github.com/linvi/tweetinvi)***
 
 This project is a slight modification of [my last one](https://github.com/grantwinney/TweetRandomFeedItemForGhost), replacing reading posts via the Ghost API to a more general parsing of RSS feeds. I wanted to create something that would work for *any* blog... or anything else that generates an RSS feed.
 
